@@ -1,17 +1,17 @@
 {
   "name": "ldsg-assistant",
   "homepage": "https://github.com/dusskapark/ldsg-assistant",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
   "license": "MIT",
   "sketch-assistant": {
-    "title": "Library Symbol Detection with TFJS",
-    "description": "Object detection model that aims to identify multiple symbols in a single artboard.",
+    "title": "LINE Design System rules",
+    "description": "A rule that helps you easily follow the design system.",
     "icon": "https://imgur.com/EbCpPBe"
   },
   "author": {
-    "name": "Joo Hyung Park"
+    "name": "LINE Product desgin"
   },
   "keywords": [
     "sketch",
@@ -19,7 +19,8 @@
     "sketch assistant",
     "public",
     "assistant",
-    "design ops"
+    "design ops",
+    "design system"
   ],
   "files": [
     "dist"
